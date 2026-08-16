@@ -6,6 +6,7 @@ namespace HocOPP
 {
     public class LopHoc
     {
+        public int soluonggg;
         private string malop;
         public string MaLop
         {
@@ -146,7 +147,8 @@ namespace HocOPP
         }
         public void ThongKeXepLoai()
         {
-            int gioi=0, kha=0, tb=0, yeu=0;
+
+            int gioi=0, kha=0, tb=0, yeu=0, dat = 0;
             foreach (SinhVien v in dssv)
             {
                 string loai = v.XepLoai();

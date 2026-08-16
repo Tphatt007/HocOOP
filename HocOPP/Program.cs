@@ -33,7 +33,7 @@ namespace HocOPP
             {
                 Console.WriteLine( s.DiemTB);
             }
-            
+            Console.WriteLine("========================================");
             //IT.InDanhSachSV();
 
             //NhanVien nv1 = new NhanVien("Le Vy", 2000, "Phong Nhan Su");
