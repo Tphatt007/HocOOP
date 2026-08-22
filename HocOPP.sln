@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankManagement", "3_QuanLyN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagement", "4_QuanLySinhVien\StudentManagement\StudentManagement.csproj", "{60B1435F-D5B1-41EF-8F31-25B0CB88C019}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankManagerment2", "5_QuanLyNganHang2\BankManagerment2\BankManagerment2.csproj", "{FB1A5598-AA6F-40AC-8DD2-F8666B05DE17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankManagerment2", "5_QuanLyNganHang2\BankManagerment2.csproj", "{FB1A5598-AA6F-40AC-8DD2-F8666B05DE17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
