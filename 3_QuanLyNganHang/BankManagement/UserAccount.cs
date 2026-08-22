@@ -14,7 +14,7 @@ namespace BankManagement
         private decimal balance;
 
         // 1. AccountId - Init-Only Property
-        public string AccountId { get; init; }
+        public string AccountId { get; set; }
 
         // 2. Username - Auto-Implemented Property
         public string Username { get; set; }
