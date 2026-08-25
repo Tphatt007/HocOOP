@@ -148,7 +148,7 @@ namespace HocOPP
         public void ThongKeXepLoai()
         {
 
-            int gioi=0, kha=0, tb=0, yeu=0, dat = 0;
+            int gioi=0, kha=0, tb=0, yeu=0;
             foreach (SinhVien v in dssv)
             {
                 string loai = v.XepLoai();

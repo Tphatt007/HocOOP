@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _6_WarriorWars_Udemy.Equipment
+{
+    class Weapon
+    {
+        private int damage;
+        
+        public int Damage
+        {
+            get {  return damage; } 
+        }
+    }
+}
