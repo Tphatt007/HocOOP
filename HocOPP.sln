@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocOPP", "2_QuanLyTruongHoc\HocOPP.csproj", "{5F957090-E02F-401E-89B0-19D382982CA5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagerment", "2_QuanLyTruongHoc\SchoolManagerment.csproj", "{5F957090-E02F-401E-89B0-19D382982CA5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArenaOfMonster", "1_DauTruongQuaiVat\ArenaOfMonster\ArenaOfMonster.csproj", "{40B7A03A-D14B-4752-884D-9FECF38A463D}"
 EndProject
