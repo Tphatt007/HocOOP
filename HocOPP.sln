@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankManagerment2", "5_QuanL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_WarriorWars-Udemy", "6_WarriorWars-Udemy\6_WarriorWars-Udemy.csproj", "{0B24F824-19E5-46E7-BCEF-68D550588CED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi4-OOP", "Buoi4-OOP\Buoi4-OOP.csproj", "{CF070A7D-3AFD-47AC-B090-5C09804760B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi4-OOP", "7_Buoi4-OOP\Buoi4-OOP.csproj", "{4CC07147-9F9D-CE18-7500-2D3580448EFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,10 +47,10 @@ Global
 		{0B24F824-19E5-46E7-BCEF-68D550588CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B24F824-19E5-46E7-BCEF-68D550588CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B24F824-19E5-46E7-BCEF-68D550588CED}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CF070A7D-3AFD-47AC-B090-5C09804760B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CF070A7D-3AFD-47AC-B090-5C09804760B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CF070A7D-3AFD-47AC-B090-5C09804760B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CF070A7D-3AFD-47AC-B090-5C09804760B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
