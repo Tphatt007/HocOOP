@@ -1,4 +1,5 @@
-﻿namespace Buoi5_OOP
+﻿namespace DiceGame
+
 {
     public class PairOfDice
     {
