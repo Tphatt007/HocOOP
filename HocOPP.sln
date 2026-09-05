@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.8.12023.21 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolManagerment", "2_QuanLyTruongHoc\SchoolManagerment.csproj", "{5F957090-E02F-401E-89B0-19D382982CA5}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_WarriorWars-Udemy", "6_WarriorWars-Udemy\6_WarriorWars-Udemy.csproj", "{0B24F824-19E5-46E7-BCEF-68D550588CED}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi4-OOP", "7_Buoi4-OOP\Buoi4-OOP.csproj", "{4CC07147-9F9D-CE18-7500-2D3580448EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buoi5-OOP", "Buoi5-OOP\Buoi5-OOP.csproj", "{473DF1D9-B2E9-4F6B-85A2-9C7381C991BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CC07147-9F9D-CE18-7500-2D3580448EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473DF1D9-B2E9-4F6B-85A2-9C7381C991BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473DF1D9-B2E9-4F6B-85A2-9C7381C991BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473DF1D9-B2E9-4F6B-85A2-9C7381C991BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473DF1D9-B2E9-4F6B-85A2-9C7381C991BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
