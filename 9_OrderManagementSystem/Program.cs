@@ -9,12 +9,13 @@
             DonHang dh1 = new DonHang("DH0001");
             dh1.ThemSanPham(banphim, 2);
             dh1.ThemSanPham(chuot, 1);
-            KhuyenMaiKhaiTruong km = new KhuyenMaiKhaiTruong();
+            KhuyenMaiKhaiTruong kmkt = new KhuyenMaiKhaiTruong();
+            KhuyenMaiVIP kmvip = new KhuyenMaiVIP();
             ThanhToan tt = new ThanhToan();
             TTViDienTu ttvdt = new TTViDienTu();
-            tt.ThanhToanTien(dh1, km, ttvdt);
+            tt.ThanhToanTien(dh1, kmvip, ttvdt);
             ThongBao tb = new ThongBao();
-            TBEmail pttb = new TBEmail();
+            TBSMS pttb = new TBSMS();
             tb.TBDH(dh1, pttb);
         }
     }

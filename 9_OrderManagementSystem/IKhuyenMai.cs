@@ -18,4 +18,12 @@ namespace OrderManagementSystem
             return (decimal)0.1;
         }
     }
+    public class KhuyenMaiVIP : IKhuyenMai
+    {
+        public decimal GiamGia()
+        {
+            //20%
+            return (decimal)0.2;
+        }
+    }
 }

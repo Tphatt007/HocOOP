@@ -12,7 +12,7 @@ namespace OrderManagementSystem
         {
             decimal tientra = dh.ThanhTien() - (dh.ThanhTien() * km.GiamGia());
             Console.WriteLine("Tong tien: "+ dh.ThanhTien());
-            Console.WriteLine("Tien duoc giam: "+ dh.ThanhTien() * km.GiamGia());
+            Console.WriteLine("Tien duoc giam: "+ dh.ThanhTien() * km.GiamGia()+$" ({km.GiamGia()*100}%)");
             Console.WriteLine("Tien phai tra: "+tientra);
             pt.ThanhToan();
         }
