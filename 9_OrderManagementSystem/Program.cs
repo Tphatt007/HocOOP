@@ -1,10 +1,10 @@
-﻿namespace Bai1_QuanLyChuyenXe
+﻿namespace OrderManagementSystem
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
         }
     }
 }
